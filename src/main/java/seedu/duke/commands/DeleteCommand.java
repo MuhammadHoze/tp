@@ -31,6 +31,7 @@ public class DeleteCommand extends Command {
     public DeleteCommand(String priorityValue) {
         this.hasPriorityValue = true;
         this.priorityIndex = Integer.parseInt(priorityValue.substring(2));
+
     }
 
     @Override
