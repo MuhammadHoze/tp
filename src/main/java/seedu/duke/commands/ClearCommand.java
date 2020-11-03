@@ -10,6 +10,7 @@ import seedu.duke.model.itemlist.ModuleList;
 import seedu.duke.model.itemlist.TaskList;
 import seedu.duke.ui.Ui;
 
+// @@author MuhammadHoze
 
 /**
  * Clears all tasks in the task list.
@@ -41,11 +42,6 @@ public class ClearCommand extends Command {
             books.clearBook();
             links.clearList();
             modules.clearModule();
-
-//            tasks.clear();
-//            books.clear();
-//            links.clear();
-//            modules.clear();
             Ui.dukePrint(Messages.MESSAGE_CLEAR);
 
         } else {
