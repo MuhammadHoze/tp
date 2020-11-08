@@ -376,23 +376,23 @@ borrowed books tracking, and module-related functions. This increase users' effi
  
 <!-- @@author MuhammadHoze -->
 ### User Stories
-| Version | Priority | As a ... | I want to ... | So that I can ...|
-| -------- | ---------- | ---------- | --------------- | ------------------ |
-| v1.0 | High | student | add tasks into a list | keep track of the things I need to do |
-| v1.0 | High | student | assign priorities to tasks | focus on the more important things first |
-| v1.0 | Medium | student | assign categories to tasks| have a more organised task list |
-| v1.0 | High | student | mark tasks as done| keep track of the remaining tasks to do |
-| v1.0 | Medium | student | list all tasks in my list| have a better overview |
-| v1.0 | High | student | be able to delete unwanted tasks| focus on the tasks which I need |
-| v1.0 | High | student | save all data after using the application| retrieve the data upon running the application |
-| v2.0 | Medium | student | automatically create folders for my modules| I do not have to manually create them |
-| v2.0 | High | student| add recurring tasks| avoid adding the same tasks every week |
-| v2.0 | High | student | have a calendar| I can view my current and upcoming tasks |
-| v2.0 | High |student| be able to set a tracker my borrowed books| avoid overdue fines | 
-| v2.0 | Medium | student | sort my tasks based on highest priority | focus on those tasks first |
-| v2.0 | High | student | save zoom links in a centralized place | easily attend my online classes instead of looking through my email for the link | 
-| v2.0 | High | student | add modules and calculate my CAP| have a better projection of my grades and efforts |
-| v2.0 | Low | student | login with a password | my system is protected |
+Version | Priority | As a ... | I want to ... | So that I can ...
+-------- | ---------- | ---------- | --------------- | ------------------
+v1.0 | High | student | add tasks into a list | keep track of the things I need to do
+v1.0 | High | student | assign priorities to tasks | focus on the more important things first
+v1.0 | Medium | student | assign categories to tasks| have a more organised task list
+v1.0 | High | student | mark tasks as done| keep track of the remaining tasks to do
+v1.0 | Medium | student | list all tasks in my list| have a better overview
+v1.0 | High | student | be able to delete unwanted tasks| focus on the tasks which I need
+v1.0 | High | student | save all data after using the application| retrieve the data upon running the application
+v2.0 | Medium | student | automatically create folders for my modules| I do not have to manually create them
+v2.0 | High | student| add recurring tasks| avoid adding the same tasks every week
+v2.0 | High | student | have a calendar| I can view my current and upcoming tasks
+v2.0 | High |student| be able to set a tracker my borrowed books| avoid overdue fines
+v2.0 | Medium | student | sort my tasks based on highest priority | focus on those tasks first
+v2.0 | High | student | save zoom links in a centralized place | easily attend my online classes instead of looking through my email for the link 
+v2.0 | High | student | add modules and calculate my CAP| have a better projection of my grades and efforts
+v2.0 | Low | student | login with a password | my system is protected
 <!-- @@author -->
 
 <!-- @@author MuhammadHoze -->
@@ -407,18 +407,18 @@ borrowed books tracking, and module-related functions. This increase users' effi
 
 <!-- @@author MuhammadHoze -->
 ### Glossary
-|Acronym | Full form | Meaning |
-| -------- | ---------- | ---------- |
-| **CI**   | Continuous Integration | Combining parts of a software product to form a whole
-| **SDK**  | Software Development Kit | A set of software tools by software vendors
-| **IntelliJ** | IntelliJ | An Integrated Development Environment written in Java 
-| **UML** | Unified Modeling Language | A modeling language which to visualize the design of a system
-| **CLI** | Command Line Interface | A program that accepts text inputs to execute operating system functions
-| **GUI** | Graphical User Interface | An interface that allows users to interact through graphical icons 
-| **Mainstream OS** | Windows, Linux, Unix, OS-X | Operating systems 
-| **SLOC** | Source Lines of Code | The number of lines in a program's source code
-| **DRY** | Don't Repeat Yourself | Every piece of knowledge must have a single, unambiguous, authoritative representation within a system
-| **CAP** | Cumulative Average Point | The weighted average grade point of all modules taken by a student
+Acronym | Full form | Meaning |
+-------- | ---------- | ---------- |
+**CI**   | Continuous Integration | Combining parts of a software product to form a whole
+**SDK**  | Software Development Kit | A set of software tools by software vendors
+**IntelliJ** | IntelliJ | An Integrated Development Environment written in Java 
+**UML** | Unified Modeling Language | A modeling language which to visualize the design of a system
+**CLI** | Command Line Interface | A program that accepts text inputs to execute operating system functions
+**GUI** | Graphical User Interface | An interface that allows users to interact through graphical icons 
+**Mainstream OS** | Windows, Linux, Unix, OS-X | Operating systems 
+**SLOC** | Source Lines of Code | The number of lines in a program's source code
+**DRY** | Don't Repeat Yourself | Every piece of knowledge must have a single, unambiguous, authoritative representation within a system
+**CAP** | Cumulative Average Point | The weighted average grade point of all modules taken by a student
  <!-- @@author -->
  
 <!-- @@author Cao-Zeyu -->
